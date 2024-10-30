@@ -1,8 +1,3 @@
-###
-
-<h1 align="center">To know ten thousand things, know one well</h1>
-
-###
 
 <!-- <div align="center">
 
@@ -16,11 +11,6 @@
   </a>
 </p>
 
-###
-
-<h2 align="center">It doesn't matter how much you build, it's how well you build.</h2>
-
-###
 
 <br clear="both" /> -->
 
